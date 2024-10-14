@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Project\\SocialNetworkProjectMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE06B81-C06C-4005-9D73-63624D48029C}|SocialNetworkProjectMVC.WebUI\\SocialNetworkProjectMVC.WebUI.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\it step\\my drive\\asp.net\\elvin camalzade\\project\\socialnetworkprojectmvc\\socialnetworkprojectmvc.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAE06B81-C06C-4005-9D73-63624D48029C}|SocialNetworkProjectMVC.WebUI\\SocialNetworkProjectMVC.WebUI.csproj|solutionrelative:socialnetworkprojectmvc.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZustDB/True/SqlTable/dbo.FriendRequests.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZustDB/True/SqlTable/dbo.Friends.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15794177-F651-4666-92E3-C0C8F12EA768}|SocialNetworkProjectMVC.Business\\SocialNetworkProjectMVC.Business.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\it step\\my drive\\asp.net\\elvin camalzade\\project\\socialnetworkprojectmvc\\socialnetworkprojectmvc.business\\concrete\\friendrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15794177-F651-4666-92E3-C0C8F12EA768}|SocialNetworkProjectMVC.Business\\SocialNetworkProjectMVC.Business.csproj|solutionrelative:socialnetworkprojectmvc.business\\concrete\\friendrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15794177-F651-4666-92E3-C0C8F12EA768}|SocialNetworkProjectMVC.Business\\SocialNetworkProjectMVC.Business.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\it step\\my drive\\asp.net\\elvin camalzade\\project\\socialnetworkprojectmvc\\socialnetworkprojectmvc.business\\abstract\\ifriendrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15794177-F651-4666-92E3-C0C8F12EA768}|SocialNetworkProjectMVC.Business\\SocialNetworkProjectMVC.Business.csproj|solutionrelative:socialnetworkprojectmvc.business\\abstract\\ifriendrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE06B81-C06C-4005-9D73-63624D48029C}|SocialNetworkProjectMVC.WebUI\\SocialNetworkProjectMVC.WebUI.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\it step\\my drive\\asp.net\\elvin camalzade\\project\\socialnetworkprojectmvc\\socialnetworkprojectmvc.webui\\controllers\\friendrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE06B81-C06C-4005-9D73-63624D48029C}|SocialNetworkProjectMVC.WebUI\\SocialNetworkProjectMVC.WebUI.csproj|solutionrelative:socialnetworkprojectmvc.webui\\controllers\\friendrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE06B81-C06C-4005-9D73-63624D48029C}|SocialNetworkProjectMVC.WebUI\\SocialNetworkProjectMVC.WebUI.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\it step\\my drive\\asp.net\\elvin camalzade\\project\\socialnetworkprojectmvc\\socialnetworkprojectmvc.webui\\wwwroot\\js\\settings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AAE06B81-C06C-4005-9D73-63624D48029C}|SocialNetworkProjectMVC.WebUI\\SocialNetworkProjectMVC.WebUI.csproj|solutionrelative:socialnetworkprojectmvc.webui\\wwwroot\\js\\settings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE06B81-C06C-4005-9D73-63624D48029C}|SocialNetworkProjectMVC.WebUI\\SocialNetworkProjectMVC.WebUI.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\it step\\my drive\\asp.net\\elvin camalzade\\project\\socialnetworkprojectmvc\\socialnetworkprojectmvc.webui\\wwwroot\\js\\friends.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AAE06B81-C06C-4005-9D73-63624D48029C}|SocialNetworkProjectMVC.WebUI\\SocialNetworkProjectMVC.WebUI.csproj|solutionrelative:socialnetworkprojectmvc.webui\\wwwroot\\js\\friends.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZustDB/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFriendRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Project\\SocialNetworkProjectMVC\\SocialNetworkProjectMVC.Business\\Abstract\\IFriendRequestService.cs",
+              "RelativeDocumentMoniker": "SocialNetworkProjectMVC.Business\\Abstract\\IFriendRequestService.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Project\\SocialNetworkProjectMVC\\SocialNetworkProjectMVC.Business\\Abstract\\IFriendRequestService.cs",
+              "RelativeToolTip": "SocialNetworkProjectMVC.Business\\Abstract\\IFriendRequestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:06:35.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FriendRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Project\\SocialNetworkProjectMVC\\SocialNetworkProjectMVC.Business\\Concrete\\FriendRequestService.cs",
+              "RelativeDocumentMoniker": "SocialNetworkProjectMVC.Business\\Concrete\\FriendRequestService.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Project\\SocialNetworkProjectMVC\\SocialNetworkProjectMVC.Business\\Concrete\\FriendRequestService.cs",
+              "RelativeToolTip": "SocialNetworkProjectMVC.Business\\Concrete\\FriendRequestService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwEEAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:05:54.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.FriendRequests [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZustDB/True/SqlTable/dbo.FriendRequests.sql",
+              "ToolTip": "dbo.FriendRequests [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-14T05:00:36.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Friends [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZustDB/True/SqlTable/dbo.Friends.sql",
+              "ToolTip": "dbo.Friends [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-14T05:00:25.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FriendRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Project\\SocialNetworkProjectMVC\\SocialNetworkProjectMVC.WebUI\\Controllers\\FriendRequestController.cs",
+              "RelativeDocumentMoniker": "SocialNetworkProjectMVC.WebUI\\Controllers\\FriendRequestController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Project\\SocialNetworkProjectMVC\\SocialNetworkProjectMVC.WebUI\\Controllers\\FriendRequestController.cs",
+              "RelativeToolTip": "SocialNetworkProjectMVC.WebUI\\Controllers\\FriendRequestController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwEUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:57:41.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "settings.js",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Project\\SocialNetworkProjectMVC\\SocialNetworkProjectMVC.WebUI\\wwwroot\\js\\settings.js",
+              "RelativeDocumentMoniker": "SocialNetworkProjectMVC.WebUI\\wwwroot\\js\\settings.js",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Project\\SocialNetworkProjectMVC\\SocialNetworkProjectMVC.WebUI\\wwwroot\\js\\settings.js",
+              "RelativeToolTip": "SocialNetworkProjectMVC.WebUI\\wwwroot\\js\\settings.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-14T04:52:00.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZustDB/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-14T04:48:33.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Project\\SocialNetworkProjectMVC\\SocialNetworkProjectMVC.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SocialNetworkProjectMVC.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Project\\SocialNetworkProjectMVC\\SocialNetworkProjectMVC.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SocialNetworkProjectMVC.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAAQBAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T04:34:09.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "friends.js",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Project\\SocialNetworkProjectMVC\\SocialNetworkProjectMVC.WebUI\\wwwroot\\js\\friends.js",
+              "RelativeDocumentMoniker": "SocialNetworkProjectMVC.WebUI\\wwwroot\\js\\friends.js",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Project\\SocialNetworkProjectMVC\\SocialNetworkProjectMVC.WebUI\\wwwroot\\js\\friends.js",
+              "RelativeToolTip": "SocialNetworkProjectMVC.WebUI\\wwwroot\\js\\friends.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-14T04:28:54.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Project\SocialNetworkProjectMVC\SocialNetworkProjectMVC.Entities\bin\Debug\net8.0\SocialNetworkProjectMVC.Entities.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Project\SocialNetworkProjectMVC\SocialNetworkProjectMVC.Entities\bin\Debug\net8.0\SocialNetworkProjectMVC.Entities.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Project\SocialNetworkProjectMVC\SocialNetworkProjectMVC.Entities\bin\Debug\net8.0\SocialNetworkProjectMVC.Entities.dll
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Project\SocialNetworkProjectMVC\SocialNetworkProjectMVC.Entities\bin\Debug\net8.0\SocialNetworkProjectMVC.Entities.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Project\SocialNetworkProjectMVC\SocialNetworkProjectMVC.Entities\bin\Debug\net8.0\SocialNetworkProjectMVC.Core.dll
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Project\SocialNetworkProjectMVC\SocialNetworkProjectMVC.Entities\bin\Debug\net8.0\SocialNetworkProjectMVC.Core.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Project\SocialNetworkProjectMVC\SocialNetworkProjectMVC.Entities\obj\Debug\net8.0\SocialNetworkProjectMVC.Entities.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Project\SocialNetworkProjectMVC\SocialNetworkProjectMVC.Entities\obj\Debug\net8.0\SocialNetworkProjectMVC.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Project\SocialNetworkProjectMVC\SocialNetworkProjectMVC.Entities\obj\Debug\net8.0\SocialNetworkProjectMVC.Entities.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Project\SocialNetworkProjectMVC\SocialNetworkProjectMVC.Entities\obj\Debug\net8.0\SocialNetworkProjectMVC.Entities.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Project\SocialNetworkProjectMVC\SocialNetworkProjectMVC.Entities\obj\Debug\net8.0\SocialNetworkProjectMVC.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Project\SocialNetworkProjectMVC\SocialNetworkProjectMVC.Entities\obj\Debug\net8.0\SocialNe.0D6ED557.Up2Date
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Project\SocialNetworkProjectMVC\SocialNetworkProjectMVC.Entities\obj\Debug\net8.0\SocialNetworkProjectMVC.Entities.dll
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Project\SocialNetworkProjectMVC\SocialNetworkProjectMVC.Entities\obj\Debug\net8.0\refint\SocialNetworkProjectMVC.Entities.dll
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Project\SocialNetworkProjectMVC\SocialNetworkProjectMVC.Entities\obj\Debug\net8.0\SocialNetworkProjectMVC.Entities.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Project\SocialNetworkProjectMVC\SocialNetworkProjectMVC.Entities\obj\Debug\net8.0\SocialNetworkProjectMVC.Entities.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Project\SocialNetworkProjectMVC\SocialNetworkProjectMVC.Entities\obj\Debug\net8.0\ref\SocialNetworkProjectMVC.Entities.dll

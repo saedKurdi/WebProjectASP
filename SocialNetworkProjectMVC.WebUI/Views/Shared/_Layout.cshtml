@@ -1,0 +1,421 @@
+﻿<!doctype html>
+<html lang="zxx">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Links of CSS files -->
+    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/assets/css/animate.min.css">
+    <link rel="stylesheet" href="~/assets/css/remixicon.css">
+    <link rel="stylesheet" href="~/assets/css/flaticon.css">
+    <link rel="stylesheet" href="~/assets/css/jquery-ui.min.css">
+    <link rel="stylesheet" href="~/assets/css/magnific-popup.min.css">
+    <link rel="stylesheet" href="~/assets/css/simplebar.min.css">
+    <link rel="stylesheet" href="~/assets/css/metismenu.min.css">
+    <link rel="stylesheet" href="~/assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="~/assets/css/style.css">
+    <link rel="stylesheet" href="~/assets/css/responsive.css">
+
+    <title>Zust - Social Community & Marketplace HTML Template</title>
+
+    <link rel="icon" type="image/png" href="~/assets/images/favicon.png">
+</head>
+
+<body>
+
+    <!-- Start Preloader Area -->
+    <div class="preloader-area">
+        <div class="spinner">
+            <div class="inner">
+                <div class="disc"></div>
+                <div class="disc"></div>
+                <div class="disc"></div>
+            </div>
+        </div>
+    </div>
+    <!-- End Preloader Area -->
+
+    <!-- Start Main Content Wrapper Area -->
+    <div class="main-content-wrapper d-flex flex-column">
+
+        <!-- Start Navbar Area -->
+        <div class="navbar-area">
+            <div class="main-responsive-nav">
+                <div class="main-responsive-menu">
+                    <div class="responsive-burger-menu d-lg-none d-block">
+                        <span class="top-bar"></span>
+                        <span class="middle-bar"></span>
+                        <span class="bottom-bar"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="main-navbar">
+                <nav class="navbar navbar-expand-lg navbar-light">
+                    <a href="/Home/Index" class="navbar-brand d-flex align-items-center">
+                        <img src="~/assets/images/logo.png" alt="image">
+                    </a>
+
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <div class="navbar-burger-menu m-auto">
+                            <span class="top-bar"></span>
+                            <span class="middle-bar"></span>
+                            <span class="bottom-bar"></span>
+                        </div>
+
+                        <div class="search-box m-auto">
+                            <form>
+                                <input type="text" class="input-search" placeholder="Search...">
+                                <button type="submit"><i class="ri-search-line"></i></button>
+                            </form>
+                        </div>
+
+                        <div class="others-options d-flex align-items-center">
+                            <div class="option-item">
+                                <a href="/Home/Index" class="home-btn"><i class="flaticon-home"></i></a>
+                            </div>
+                            <div class="option-item">
+                                <div class="dropdown friend-requests-nav-item">
+                                    <a href="#" class="dropdown-bs-toggle" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <div class="friend-requests-btn">
+                                            <i class="flaticon-user"></i>
+                                            <!-- User's friend request count -->
+                                            <span id="layoutFriendRequestCount"></span>
+                                        </div>
+                                    </a>
+
+                                    <div class="dropdown-menu">
+                                        <div class="friend-requests-header d-flex justify-content-between align-items-center">
+                                            <h3>Friend Requests</h3>
+                                            <i class="flaticon-menu"></i>
+                                        </div>
+
+                                        <!-- Friend requests notifications of user -->
+                                        <div id="layoutFriendRequests" class="friend-requests-body" data-simplebar>
+                                        </div>
+                                        <!-- Friend requests notifications of user -->
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="option-item">
+                                <div class="dropdown messages-nav-item">
+                                    <a href="#" class="dropdown-bs-toggle" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <div class="messages-btn">
+                                            <i class="flaticon-email"></i>
+                                            <!-- User's messages count -->
+                                            <span id="layoutUnreadMessagesCount"></span>
+                                        </div>
+                                    </a>
+
+                                    <div class="dropdown-menu">
+                                        <div class="messages-header d-flex justify-content-between align-items-center">
+                                            <h3>Messages</h3>
+                                            <i class="flaticon-menu"></i>
+                                        </div>
+
+                                        <!-- Messages of current user -->
+                                        <div id="layoutMessages" class="messages-body" data-simplebar></div>
+                                        <!-- Messages of current user -->
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="option-item">
+                                <div class="dropdown notifications-nav-item">
+                                    <a href="#" class="dropdown-bs-toggle" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <div class="notifications-btn">
+                                            <i class="flaticon-bell"></i>
+                                            <!-- Notification count of current user -->
+                                            <span id="layoutUnreadNotificationsCount"></span>
+                                        </div>
+                                    </a>
+
+                                    <div class="dropdown-menu">
+                                        <div class="notifications-header d-flex justify-content-between align-items-center">
+                                            <h3>Notifications</h3>
+                                            <i class="flaticon-menu"></i>
+                                        </div>
+
+                                        <!-- Notifications of current user -->
+                                        <div id="layoutNotifications" class="notifications-body" data-simplebar>
+                                        </div>
+                                        <!-- Notifications of current user -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="option-item">
+                                <div class="dropdown profile-nav-item">
+                                    <a href="#" class="dropdown-bs-toggle" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <div class="menu-profile">
+                                            <img id="layoutProfileImageUrl" /> 
+                                            <span id="layoutUserUsername" class="name"></span>
+                                            <span id="layoutUserIsOnline"></span>
+                                        </div>
+                                    </a>
+
+                                    <div class="dropdown-menu">
+                                            <div class="profile-header">
+                                                <h3 id="layoutUserUsername2"></h3>
+                                                <a id="layoutUserEmail"></a>
+                                            </div>
+                                            <ul class="profile-body">
+                                                <li><i class="flaticon-user"></i> <a href="/Settings/MyProfile">My Profile</a></li>
+                                                <li><i class="flaticon-settings"></i> <a href="/Settings/Setting">Setting</a></li>
+                                                <li><i class="flaticon-privacy"></i> <a href="/Settings/Privacy">Privacy</a></li>
+                                                <li><i class="flaticon-information"></i> <a href="/Settings/HelpAndSupport">Help & Support</a></li>
+                                                <li><i class="flaticon-logout"></i> <a href="/Settings/Logout">Logout</a></li>
+                                            </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </nav>
+            </div>
+
+            <div class="others-option-for-responsive">
+                <div class="container">
+                    <div class="dot-menu">
+                        <div class="inner">
+                            <div class="circle circle-one"></div>
+                            <div class="circle circle-two"></div>
+                            <div class="circle circle-three"></div>
+                        </div>
+                    </div>
+
+                    <div class="container">
+                        <div class="option-inner">
+                            <div class="others-options d-flex align-items-center">
+                                <div class="option-item">
+                                    <a href="/Home/Index" class="home-btn"><i class="flaticon-home"></i></a>
+                                </div>
+                                <div class="option-item">
+                                    <div class="dropdown friend-requests-nav-item">
+                                        <a href="#" class="dropdown-bs-toggle" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <div class="friend-requests-btn">
+                                                <i class="flaticon-user"></i>
+                                                <!-- User's friend request count -->
+                                                <span id="layoutFriendRequestCount"></span>
+                                            </div>
+                                        </a>
+
+                                        <div class="dropdown-menu">
+                                            <div class="friend-requests-header d-flex justify-content-between align-items-center">
+                                                <h3>Friend Requests</h3>
+                                                <i class="flaticon-menu"></i>
+                                            </div>
+
+                                            <!-- Friend requests notifications of user -->
+                                            <div id="layoutFriendRequests" class="friend-requests-body" data-simplebar>
+                                            </div>
+                                            <!-- Friend requests notifications of user -->
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="option-item">
+                                    <div class="dropdown messages-nav-item">
+                                        <a href="#" class="dropdown-bs-toggle" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <div class="messages-btn">
+                                                <i class="flaticon-email"></i>
+                                                <!-- User's messages count -->
+                                                <span id="layoutUnreadMessagesCount"></span>
+                                            </div>
+                                        </a>
+
+                                        <div class="dropdown-menu">
+                                            <div class="messages-header d-flex justify-content-between align-items-center">
+                                                <h3>Messages</h3>
+                                                <i class="flaticon-menu"></i>
+                                            </div>
+
+                                            <!-- Messages of current user -->
+                                            <div id="layoutMessages" class="messages-body" data-simplebar></div>
+                                            <!-- Messages of current user -->
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="option-item">
+                                    <div class="dropdown notifications-nav-item">
+                                        <a href="#" class="dropdown-bs-toggle" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <div class="notifications-btn">
+                                                <i class="flaticon-bell"></i>
+                                                <!-- Notification count of current user -->
+                                                <span id="layoutUnreadNotificationsCount"></span>
+                                            </div>
+                                        </a>
+
+                                        <div class="dropdown-menu">
+                                            <div class="notifications-header d-flex justify-content-between align-items-center">
+                                                <h3>Notifications</h3>
+                                                <i class="flaticon-menu"></i>
+                                            </div>
+
+                                            <!-- Notifications of current user -->
+                                            <div id="layoutNotifications" class="notifications-body" data-simplebar>
+                                            </div>
+                                            <!-- Notifications of current user -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="option-item">
+                                    <div class="dropdown profile-nav-item">
+                                        <a href="#" class="dropdown-bs-toggle" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <div class="menu-profile">
+                                                <img id="layoutProfileImageUrl" />
+                                                <span id="layoutUserUsername" class="name"></span>
+                                                <span id="layoutUserIsOnline"></span>
+                                            </div>
+                                        </a>
+
+                                        <div class="dropdown-menu">
+                                            <div class="profile-header">
+                                                <h3 id="layoutUserUsername2"></h3>
+                                                <a id="layoutUserEmail"></a>
+                                            </div>
+                                            <ul class="profile-body">
+                                                <li><i class="flaticon-user"></i> <a href="/Settings/MyProfile">My Profile</a></li>
+                                                <li><i class="flaticon-settings"></i> <a href="/Settings/Setting">Setting</a></li>
+                                                <li><i class="flaticon-privacy"></i> <a href="/Settings/Privacy">Privacy</a></li>
+                                                <li><i class="flaticon-information"></i> <a href="/Settings/HelpAndSupport">Help & Support</a></li>
+                                                <li><i class="flaticon-logout"></i> <a href="/Settings/Logout">Logout</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="option-item">
+                                    <div class="search-box">
+                                        <form>
+                                            <input type="text" class="input-search" placeholder="Search...">
+                                            <button type="submit"><i class="ri-search-line"></i></button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Navbar Area -->
+
+        <!-- Start Sidemenu Area -->
+        <div class="sidemenu-area">
+            <div class="responsive-burger-menu d-lg-none d-block">
+                <span class="top-bar"></span>
+                <span class="middle-bar"></span>
+                <span class="bottom-bar"></span>
+            </div>
+
+            <div class="sidemenu-body">
+                <ul class="sidemenu-nav metisMenu h-100" id="sidemenu-nav" data-simplebar>
+                    <li class="nav-item">
+                        <a href="/Home/Index" class="nav-link">
+                            <span class="icon"><i class="flaticon-newspaper"></i></span>
+                            <span class="menu-title">News Feed</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/Home/Notifications" class="nav-link">
+                            <span class="icon"><i class="flaticon-bell"></i></span>
+                            <span class="menu-title">Notifications</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/Home/Messages" class="nav-link">
+                            <span class="icon"><i class="flaticon-comment-1"></i></span>
+                            <span class="menu-title">Messages</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/Home/Friends" class="nav-link">
+                            <span class="icon"><i class="flaticon-friends"></i></span>
+                            <span class="menu-title">Friend Requests</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/Account/Login" class="nav-link">
+                            <span class="icon"><i class="flaticon-user"></i></span>
+                            <span class="menu-title">Login</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/Account/Register" class="nav-link">
+                            <span class="icon"><i class="flaticon-information"></i></span>
+                            <span class="menu-title">Register</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!-- End Sidemenu Area -->
+
+        @RenderBody()
+
+        <!-- Start Right Sidebar Area -->
+        <div class="right-sidebar-area" data-simplebar>
+            <!-- contacts start -->
+            <div class="recent-contact-box">
+                <div class="title">
+                    <h3>Contact</h3>
+                </div>
+                <div class="contact-search-box">
+                        <input id="searchContact" type="text" class="input-search" placeholder="Search ...">
+                </div>
+                <div id="contacts" class="contact-body" data-simplebar>
+                </div>
+            </div>
+            <!-- contacts end -->
+        </div>
+        <!-- End Right Sidebar Area -->
+
+    </div>
+    <!-- End Main Content Wrapper Area -->
+
+    <!-- Start Copyright Area -->
+    <div class="copyrights-area">
+        <div class="container">
+            <div class="row align-items-center">
+                <p><i class="ri-copyright-line"></i> 2021 Zust. All Rights Reserved by <a href="https://envytheme.com/" target="_blank">EnvyTheme</a></p>
+            </div>
+        </div>
+    </div>
+    <!-- End Copyright Area -->
+
+    <!-- Start Go Top Area -->
+    <div class="go-top">
+        <i class="ri-arrow-up-line"></i>
+    </div>
+    <!-- End Go Top Area -->
+
+    <!-- Links of JS files -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/8.0.7/signalr.min.js"
+    integrity="sha512-7SRCYIJtR6F8ocwW7UxW6wGKqbSyqREDbfCORCbGLatU0iugBLwyOXpzhkPyHIFdBO0K2VCu57fvP2Twgx1o2A==" 
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="~/assets/js/jquery.min.js"></script>
+    <script src="~/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="~/assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="~/assets/js/jquery-ui.min.js"></script>
+
+    <script src="~/assets/js/simplebar.min.js"></script>
+    <script src="~/assets/js/metismenu.min.js"></script>
+    <script src="~/assets/js/owl.carousel.min.js"></script>
+    <script src="~/assets/js/wow.min.js"></script>
+    <script src="~/assets/js/main.js"></script>
+
+
+   <script src="~/js/signalrCodes.js"></script>
+   <script src="~/js/friends.js"></script>
+   <script src="~/js/home.js"></script>
+   <script src="~/js/user.js"></script>
+   <script src="~/js/settings.js"></script>
+   <script src="~/js/posts.js"></script>
+</body>
+</html>

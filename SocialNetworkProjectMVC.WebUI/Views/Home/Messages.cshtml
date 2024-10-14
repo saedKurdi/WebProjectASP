@@ -1,0 +1,34 @@
+﻿<div class="content-page-box-area">
+    <div class="page-banner-box bg-8">
+        <h3>Live Chat</h3>
+    </div>
+    <div id="chat-boxes" style="overflow:auto;display:flex;gap:30px;" class="live-chat-slides owl-carousel owl-theme">
+    </div>
+    <div class="live-chat-body">
+        <div class="live-chat-header d-flex justify-content-between align-items-center">
+            <div class="live-chat-info">
+                <a href="#">
+                    <img id="senderImage"  class="rounded-circle" alt="image" />
+                </a>
+                <h3>
+                    <a id="senderUsername" href="#"></a>
+                </h3>
+            </div>
+            <ul class="live-chat-right">
+                <li>
+                    <button onclick="deleteChat()" class="btn d-inline-block" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete" type="button"><i class="ri-delete-bin-line"></i></button>
+                </li>
+            </ul>
+        </div>
+        <div class="live-chat-container">
+            <div  id="chat-content" class="chat-content">
+            </div>
+            <div class="chat-list-footer">
+                <form onsubmit="sendMessage(event)" class="d-flex align-items-center">
+                    <input id="messageInput" type="text" class="form-control" placeholder="Type your message...">
+                    <button type="submit" class="send-btn d-inline-block">Send</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
