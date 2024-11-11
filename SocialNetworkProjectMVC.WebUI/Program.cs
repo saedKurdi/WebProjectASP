@@ -32,7 +32,7 @@ builder.Services.AddControllers()
 
 
 // adding context with options : 
-var connection = builder.Configuration.GetConnectionString("Default");
+var connection = builder.Configuration.GetConnectionString("Production");
 builder.Services.AddDbContext<ZustDBContext>(options =>
 {
     options.UseSqlServer(connection);

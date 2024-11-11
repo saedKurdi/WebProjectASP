@@ -12,8 +12,8 @@ using SocialNetworkProjectMVC.Entities.Data;
 namespace SocialNetworkProjectMVC.Entities.Migrations
 {
     [DbContext(typeof(ZustDBContext))]
-    [Migration("20241014034515_Init")]
-    partial class Init
+    [Migration("20241111163910_Changes")]
+    partial class Changes
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
